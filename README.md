@@ -1,16 +1,9 @@
-# polines_news
+# polines_news V2
 
-A new Flutter project.
+Muhammad Naufal Yesha Rendra <br>
+3.34.21.3.1.5 <br>
+IK-2D <br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/116877491/212266168-7283e8d5-366a-4e95-8c8d-7e574e87ee2c.jpg) <br>
+![2](https://user-images.githubusercontent.com/116877491/212266202-d65f36a7-2498-4950-995b-d18d79d8e205.jpg) <br>
+![3](https://user-images.githubusercontent.com/116877491/212266287-28c80ae1-02af-4c93-9539-6325a780b0c6.jpg)
